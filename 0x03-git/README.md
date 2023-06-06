@@ -1,1 +1,1 @@
-This is 0x03-git
+This is a directory called 0x03-git
